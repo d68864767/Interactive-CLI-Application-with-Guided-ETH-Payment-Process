@@ -1,0 +1,12 @@
+# General
+python-dotenv==0.19.1
+
+# CLI and Conversational UI
+click==8.0.3
+inquirer==2.7.0
+
+# Ethereum
+web3==5.25.0
+
+# Testing
+pytest==7.0.1
